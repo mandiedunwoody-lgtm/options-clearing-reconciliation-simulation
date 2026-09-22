@@ -7,4 +7,3 @@ merged = positions.merge(exp, on="option_id")
 
 print("Expiration status:")
 print(merged)
-
