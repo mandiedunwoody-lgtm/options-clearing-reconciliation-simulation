@@ -5,6 +5,14 @@ This project simulates the daily operational workflows performed in an Options C
 The goal of this project is to demonstrate how operational analysts protect client assets by ensuring the integrity of the options book, resolving breaks early, and improving the processes that support daily clearing activities.
 
 ---
+![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![SQL](https://img.shields.io/badge/SQL-Validated-lightgrey)
+![Excel](https://img.shields.io/badge/Excel-Reconciliation%20Model-green)
+![Data](https://img.shields.io/badge/Data-Simulated-orange)
+![Workflow](https://img.shields.io/badge/Operations-Options%20Clearing-purple)
+
+---
 
 ## Key Features
 
